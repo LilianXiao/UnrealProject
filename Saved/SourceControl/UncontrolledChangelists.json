@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/danie/Documents/Unreal Projects/Lecture/Content/LevelBlueprints/BP_Item.uasset",
+				"C:/Users/danie/Documents/Unreal Projects/Lecture/Content/Input/Actions/IA_Interact.uasset",
+				"C:/Users/danie/Documents/Unreal Projects/Lecture/Content/Input/IMC_Default.uasset",
+				"C:/Users/danie/Documents/Unreal Projects/Lecture/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/danie/Documents/Unreal Projects/Lecture/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/F7/HOL7Y4X03QKIJWWP93XI5Y.uasset",
+				"C:/Users/danie/Documents/Unreal Projects/Lecture/Content/LevelBlueprints/BP_Projectile.uasset",
+				"C:/Users/danie/Documents/Unreal Projects/Lecture/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/86/01G9JAGDOLY8C7QEEIQW20.uasset",
+				"C:/Users/danie/Documents/Unreal Projects/Lecture/Content/FirstPerson/Blueprints/BPC_Inventory.uasset",
+				"C:/Users/danie/Documents/Unreal Projects/Lecture/Content/FirstPerson/Blueprints/BPI_Character.uasset",
+				"C:/Users/danie/Documents/Unreal Projects/Lecture/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/93/P1VDF5DZFN7PI31YO6N6GL.uasset"
+			]
+		}
+	]
+}
