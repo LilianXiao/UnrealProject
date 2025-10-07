@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/admin/Desktop/Unreal/UnrealLecture/Content/NPCs/Patrolling/BP_PatrolRoute.uasset",
+				"C:/Users/admin/Desktop/Unreal/UnrealLecture/Content/NPCs/BTTask_IncrementPatrol.uasset",
+				"C:/Users/admin/Desktop/Unreal/UnrealLecture/Content/NPCs/BP_Enemy_Base.uasset",
+				"C:/Users/admin/Desktop/Unreal/UnrealLecture/Content/NPCs/BT_Enemy_Base.uasset",
+				"C:/Users/admin/Desktop/Unreal/UnrealLecture/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/PH/26RDH48VNO0AAEPALDHB61.uasset",
+				"C:/Users/admin/Desktop/Unreal/UnrealLecture/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/1H/08P35VANC1ZYWN2207IBVG.uasset",
+				"C:/Users/admin/Desktop/Unreal/UnrealLecture/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"C:/Users/danie/Documents/Unreal Projects/Lecture/Content/LevelBlueprints/BP_Item.uasset",
 				"C:/Users/danie/Documents/Unreal Projects/Lecture/Content/Input/Actions/IA_Interact.uasset",
 				"C:/Users/danie/Documents/Unreal Projects/Lecture/Content/Input/IMC_Default.uasset",
