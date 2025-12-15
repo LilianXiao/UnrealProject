@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lilia\\onedrive\\documents\\github\\unrealproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lecture\\module.lecture.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lilia\\onedrive\\documents\\github\\unrealproject\\intermediate\\build\\win64\\x64\\lectureeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\lilia\\onedrive\\documents\\github\\unrealproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lecture\\definitions.lecture.h",
+            "c:\\users\\lilia\\onedrive\\documents\\github\\unrealproject\\intermediate\\build\\win64\\unrealeditor\\inc\\lecture\\uht\\door.gen.cpp",
+            "c:\\users\\lilia\\onedrive\\documents\\github\\unrealproject\\source\\lecture\\door.h",
+            "c:\\users\\lilia\\onedrive\\documents\\github\\unrealproject\\intermediate\\build\\win64\\unrealeditor\\inc\\lecture\\uht\\door.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Lecture.gen.cpp.obj": [
+			"Door.gen.cpp.obj",
+			"Lecture.init.gen.cpp.obj",
+			"PushButton.gen.cpp.obj",
+			"SpinningTarget.gen.cpp.obj"
+		]
+	}
+}

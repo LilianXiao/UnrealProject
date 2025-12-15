@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lilia\\onedrive\\documents\\github\\unrealproject\\source\\lecture\\lecture.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lilia\\onedrive\\documents\\github\\unrealproject\\intermediate\\build\\win64\\x64\\lectureeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\lilia\\onedrive\\documents\\github\\unrealproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lecture\\definitions.lecture.h",
+            "c:\\users\\lilia\\onedrive\\documents\\github\\unrealproject\\source\\lecture\\lecture.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

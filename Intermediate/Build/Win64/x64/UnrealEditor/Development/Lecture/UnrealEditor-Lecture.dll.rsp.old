@@ -37,10 +37,13 @@
 /NOIMPLIB
 /NOEXP
 "C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/LectureEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/Lecture/Module.Lecture.gen.cpp.obj"
 "C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/Lecture/Lecture.init.gen.cpp.obj"
 "C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/Lecture/SpinningTarget.gen.cpp.obj"
+"C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/Lecture/Door.cpp.obj"
 "C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/Lecture/Lecture.cpp.obj"
 "C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/Lecture/SpinningTarget.cpp.obj"
+"C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/Lecture/PushButton.cpp.obj"
 "C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/Lecture/PerModuleInline.gen.cpp.obj"
 "C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/Lecture/Default.rc2.res"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"

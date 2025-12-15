@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Lecture",
+			"Path": "..\\Source\\Lecture.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LectureEditor",
+			"Path": "..\\Source\\LectureEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
