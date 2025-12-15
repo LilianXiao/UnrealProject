@@ -2292,3 +2292,147 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.15-07.04.16:711][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
 [2025.12.15-07.04.16:753][904]LogPlayLevel: Display: Destroying online subsystem :Context_23
 [2025.12.15-07.04.31:720][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.12.15-07.06.01:287][678]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 731.540222
+[2025.12.15-07.06.02:283][681]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-07.06.02:283][681]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 732.204712, Update Interval: 319.034393
+[2025.12.15-07.07.32:637][494]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_Death.W_Death
+[2025.12.15-07.07.32:641][494]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.12.15-07.07.32:647][494]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.12.15-07.07.32:659][494]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.12.15-07.07.33:788][494]LogSlate: Took 0.011371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.12.15-07.08.14:982][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.08.15:089][804]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Death] ([2] browsable assets)...
+[2025.12.15-07.08.15:095][804]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Death.W_Death]
+[2025.12.15-07.08.15:095][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Death]
+[2025.12.15-07.08.15:095][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Death" FILE="../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Content/UI/W_Death.uasset" SILENT=true
+[2025.12.15-07.08.15:114][804]LogSavePackage: Moving output files for package: /Game/UI/W_Death
+[2025.12.15-07.08.15:115][804]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Saved/W_DeathCD9F2BA247A5D86F35E181A672AED89F.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Content/UI/W_Death.uasset'
+[2025.12.15-07.08.15:129][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.971 ms (total: 2.13 sec)
+[2025.12.15-07.08.15:231][804]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.08.15:232][804]LogContentValidation: Enabled validators:
+[2025.12.15-07.08.15:232][804]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.08.15:232][804]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.08.15:232][804]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.08.15:232][804]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.08.15:232][804]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.08.15:232][804]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.08.15:234][804]AssetCheck: /Game/UI/W_Death Validating asset
+[2025.12.15-07.08.39:977][214]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.15-07.08.50:193][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.08.50:312][825]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Death] ([2] browsable assets)...
+[2025.12.15-07.08.50:316][825]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Death.W_Death]
+[2025.12.15-07.08.50:316][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Death]
+[2025.12.15-07.08.50:316][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Death" FILE="../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Content/UI/W_Death.uasset" SILENT=true
+[2025.12.15-07.08.50:330][825]LogSavePackage: Moving output files for package: /Game/UI/W_Death
+[2025.12.15-07.08.50:330][825]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Saved/W_DeathFDE3DDE0403E48135FB75BA8DDBD3C51.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Content/UI/W_Death.uasset'
+[2025.12.15-07.08.50:344][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.655 ms (total: 2.28 sec)
+[2025.12.15-07.08.50:453][825]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.08.50:453][825]LogContentValidation: Enabled validators:
+[2025.12.15-07.08.50:453][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.08.50:453][825]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.08.50:453][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.08.50:453][825]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.08.50:453][825]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.08.50:453][825]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.08.50:453][825]AssetCheck: /Game/UI/W_Death Validating asset
+[2025.12.15-07.08.58:604][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.08.58:708][302]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Death] ([2] browsable assets)...
+[2025.12.15-07.08.58:712][302]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Death.W_Death]
+[2025.12.15-07.08.58:712][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Death]
+[2025.12.15-07.08.58:712][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Death" FILE="../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Content/UI/W_Death.uasset" SILENT=true
+[2025.12.15-07.08.58:727][302]LogSavePackage: Moving output files for package: /Game/UI/W_Death
+[2025.12.15-07.08.58:727][302]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Saved/W_Death350105414F67FE24C7B34A92B48FAD81.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Content/UI/W_Death.uasset'
+[2025.12.15-07.08.58:740][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.491 ms (total: 2.42 sec)
+[2025.12.15-07.08.58:845][302]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.08.58:845][302]LogContentValidation: Enabled validators:
+[2025.12.15-07.08.58:845][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.08.58:845][302]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.08.58:845][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.08.58:845][302]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.08.58:845][302]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.08.58:845][302]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.08.58:846][302]AssetCheck: /Game/UI/W_Death Validating asset
+[2025.12.15-07.09.12:058][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.09.12:162][ 35]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Death] ([2] browsable assets)...
+[2025.12.15-07.09.12:165][ 35]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Death.W_Death]
+[2025.12.15-07.09.12:165][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Death]
+[2025.12.15-07.09.12:165][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Death" FILE="../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Content/UI/W_Death.uasset" SILENT=true
+[2025.12.15-07.09.12:179][ 35]LogSavePackage: Moving output files for package: /Game/UI/W_Death
+[2025.12.15-07.09.12:180][ 35]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Saved/W_Death37F3BC4546CE6398AC34E5987C5B9342.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Content/UI/W_Death.uasset'
+[2025.12.15-07.09.12:193][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.753 ms (total: 2.55 sec)
+[2025.12.15-07.09.12:305][ 35]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.09.12:305][ 35]LogContentValidation: Enabled validators:
+[2025.12.15-07.09.12:305][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.09.12:305][ 35]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.09.12:305][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.09.12:305][ 35]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.09.12:305][ 35]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.09.12:306][ 35]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.09.12:306][ 35]AssetCheck: /Game/UI/W_Death Validating asset
+[2025.12.15-07.09.43:890][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.09.43:991][825]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Death] ([2] browsable assets)...
+[2025.12.15-07.09.43:994][825]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Death.W_Death]
+[2025.12.15-07.09.43:994][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Death]
+[2025.12.15-07.09.43:994][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Death" FILE="../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Content/UI/W_Death.uasset" SILENT=true
+[2025.12.15-07.09.44:011][825]LogSavePackage: Moving output files for package: /Game/UI/W_Death
+[2025.12.15-07.09.44:022][825]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Saved/W_DeathB83753F04ABC238278F8169BD1A55274.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Content/UI/W_Death.uasset'
+[2025.12.15-07.09.44:036][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.737 ms (total: 2.70 sec)
+[2025.12.15-07.09.44:156][825]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.09.44:156][825]LogContentValidation: Enabled validators:
+[2025.12.15-07.09.44:156][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.09.44:156][825]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.09.44:156][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.09.44:156][825]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.09.44:156][825]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.09.44:156][825]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.09.44:157][825]AssetCheck: /Game/UI/W_Death Validating asset
+[2025.12.15-07.10.00:771][814]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_Win.W_Win
+[2025.12.15-07.10.00:772][814]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.12.15-07.10.00:783][814]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.12.15-07.10.16:560][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.10.16:677][600]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Win] ([2] browsable assets)...
+[2025.12.15-07.10.16:681][600]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Win.W_Win]
+[2025.12.15-07.10.16:681][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Win]
+[2025.12.15-07.10.16:681][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Win" FILE="../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Content/UI/W_Win.uasset" SILENT=true
+[2025.12.15-07.10.16:698][600]LogSavePackage: Moving output files for package: /Game/UI/W_Win
+[2025.12.15-07.10.16:698][600]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Saved/W_WinA9F66CBB4BB4931AF630B2B8B599DA51.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Content/UI/W_Win.uasset'
+[2025.12.15-07.10.16:713][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.313 ms (total: 2.85 sec)
+[2025.12.15-07.10.16:816][600]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.10.16:816][600]LogContentValidation: Enabled validators:
+[2025.12.15-07.10.16:816][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.10.16:816][600]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.10.16:816][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.10.16:816][600]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.10.16:816][600]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.10.16:816][600]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.10.16:817][600]AssetCheck: /Game/UI/W_Win Validating asset
+[2025.12.15-07.10.29:239][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.10.29:337][274]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Win] ([2] browsable assets)...
+[2025.12.15-07.10.29:341][274]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Win.W_Win]
+[2025.12.15-07.10.29:341][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Win]
+[2025.12.15-07.10.29:341][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Win" FILE="../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Content/UI/W_Win.uasset" SILENT=true
+[2025.12.15-07.10.29:356][274]LogSavePackage: Moving output files for package: /Game/UI/W_Win
+[2025.12.15-07.10.29:356][274]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Saved/W_WinA8C454484C8B797B4DE063A0BC455EF7.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Content/UI/W_Win.uasset'
+[2025.12.15-07.10.29:370][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.722 ms (total: 2.98 sec)
+[2025.12.15-07.10.29:481][274]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.10.29:481][274]LogContentValidation: Enabled validators:
+[2025.12.15-07.10.29:481][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.10.29:481][274]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.10.29:481][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.10.29:481][274]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.10.29:481][274]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.10.29:481][274]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.10.29:482][274]AssetCheck: /Game/UI/W_Win Validating asset
+[2025.12.15-07.10.34:123][547]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.10.34:125][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.10.34:139][547]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.10.34:139][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.10.34:404][547]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2025.12.15-07.10.36:052][641]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.10.36:052][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.10.36:060][641]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.10.36:060][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.10.36:112][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.12.15-07.11.28:600][920]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1058.859375
+[2025.12.15-07.11.29:598][923]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-07.11.29:599][923]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1059.526733, Update Interval: 307.064423
