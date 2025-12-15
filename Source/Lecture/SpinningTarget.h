@@ -22,6 +22,8 @@ protected:
 	virtual void BeginPlay() override;
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category="Components")
 	UStaticMeshComponent* Mesh;
+	FVector StartLocation;
+	float RunTime = 0.f;
 
 public:	
 	// Called every frame

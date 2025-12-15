@@ -13,8 +13,10 @@ ASpinningTarget::ASpinningTarget()
 	// make the target mesh
 	Mesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Mesh"));
 	SetRootComponent(Mesh);
+
 	Mesh->SetCollisionObjectType(ECC_WorldDynamic);
 	Mesh->SetCollisionEnabled(ECollisionEnabled::QueryAndPhysics);
+	Mesh->SetCollisionProfileName(TEXT("BlockAllDynamic"));
 	Mesh->SetGenerateOverlapEvents(true);
 }
 
@@ -22,13 +24,25 @@ ASpinningTarget::ASpinningTarget()
 void ASpinningTarget::BeginPlay()
 {
 	Super::BeginPlay();
-	
+	StartLocation = GetActorLocation();
 }
 
 // Called every frame
 void ASpinningTarget::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+
+	// Rotation
+	AddActorLocalRotation(FRotator(0.f, 90.f * DeltaTime, 0.f));
+	
+	// Floating
+	RunTime += DeltaTime;
+	const float angularFreq = 2.f * PI * 1.5f;
+	const float offset = 50.f * FMath::Sin(angularFreq * RunTime);
+
+	FVector NewLoc = StartLocation;
+	NewLoc.Z += offset;
+	SetActorLocation(NewLoc);
 
 }
 

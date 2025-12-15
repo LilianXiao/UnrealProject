@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Lecture.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/LectureEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/Lecture/Lecture.init.gen.cpp.obj"
+"C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/Lecture/SpinningTarget.gen.cpp.obj"
+"C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/Lecture/Lecture.cpp.obj"
+"C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/Lecture/SpinningTarget.cpp.obj"
+"C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/Lecture/PerModuleInline.gen.cpp.obj"
+"C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/Lecture/Default.rc2.res"
+/OUT:"C:/Users/lilia/OneDrive/Documents/GitHub/UnrealProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/Lecture/UnrealEditor-Lecture.lib"
